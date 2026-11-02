@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Tento text jsme vložili na lokálu.
+=======
+Soubor změněný na GitHub.
+>>>>>>> 8d4f070feb1ddb5f3c4dc2c673a29e5c2351f871
